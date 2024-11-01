@@ -1,0 +1,24 @@
+#wama table {width: 100%; border: 1px solid #ddd;}
+#wama table tr th {vertical-align: top; text-align: left; border-bottom: 1px solid #ddd;border-right: 1px solid #ddd;padding: 3px}
+#wama table tr td {vertical-align: top; border-bottom: 1px solid #ddd;border-right: 1px solid #ddd; padding: 3px}
+#wama .select_bx {width: 100%}
+#wama .dnone {display:none}
+#wama .w10 {width: 10%}
+#wama .w20 {width: 20%}
+#wama .w30 {width: 30%}
+#wama .m_name {font-size: 16px; font-weight: 400;}
+
+#wama .save_btn {
+    background-color: #ff6800;
+    padding: 4px 15px;
+    border-radius: 20px;
+    border: 1px solid #ff8554;
+    -webkit-transition: all 400ms;
+    transition: width all 400ms;
+    color: #fff !important;
+    width: 125px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 30px;
+    cursor: pointer;
+}
